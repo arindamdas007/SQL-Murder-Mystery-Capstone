@@ -1,12 +1,12 @@
-🔍 SQL Murder Mystery: “Who Killed the CEO?”
+**🔍 SQL Murder Mystery: “Who Killed the CEO?”**
 
-Project Overview
+***Project Overview***
 
 This project serves as a practical demonstration of data analysis and forensic investigation using Structured Query Language (SQL). The objective was to solve a fictional homicide—The TechNova CEO Case—by analyzing a series of interconnected database tables, proving the killer's guilt solely through their digital footprint.
 
 Killer Identified: David Kumar
 
-🎯 Methodology: The Digital Detective
+***🎯 Methodology: The Digital Detective***
 
 The investigation was conducted in six logical steps, focusing on finding inconsistencies between physical access logs, communication records, and the suspect's self-reported alibi.
 
@@ -22,7 +22,7 @@ employees
 
 evidence
 
-📂 Project Structure
+**📂 Project Structure**
 
 Folder / File
 
@@ -40,7 +40,7 @@ README.md
 
 You are here! A summary of the project, methodology, and conclusion.
 
-🔑 Key Findings (The Contradictions)
+**🔑 Key Findings (The Contradictions)**
 
 The case was solved by proving three critical contradictions in the killer's digital data:
 
