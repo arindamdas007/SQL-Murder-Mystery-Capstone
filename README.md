@@ -1,4 +1,4 @@
-**🔍 SQL Murder Mystery: “Who Killed the CEO?”**
+**🔍 SQL Murder Mystery:  “Who Killed the CEO?”**
 
 ***Project Overview***
 
