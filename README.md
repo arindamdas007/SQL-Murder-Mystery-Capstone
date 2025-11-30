@@ -41,6 +41,8 @@ Contains the final presentation slides (.ppt and .pdf) used to present the findi
 README.md
 
 You are here! A summary of the project, methodology, and conclusion.
+<p align='center'><img width="580" height="331" alt="Screenshot 2025-11-30 115407" src="https://github.com/user-attachments/assets/965b7a0f-7189-4927-9b4a-f0625d4b294b" />
+</p>
 
 **🔑 Key Findings (The Contradictions)**
 
