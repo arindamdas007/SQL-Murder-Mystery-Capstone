@@ -1,6 +1,6 @@
 **🔍 SQL Murder Mystery:  “Who Killed the CEO?”**
 
-<img width="585" height="1629" alt="Screenshot 2025-11-30 114229" src="https://github.com/user-attachments/assets/3c1620d3-1bf1-4c3e-9d88-13c6b9888d86" />
+ <p align='center'><img width="585" height="1629" alt="Screenshot 2025-11-30 114229" src="https://github.com/user-attachments/assets/3c1620d3-1bf1-4c3e-9d88-13c6b9888d86" /></p>
 
 ***Project Overview***
 
